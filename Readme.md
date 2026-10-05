@@ -373,15 +373,6 @@ El mismo patrón del Ejercicio 5 (DIP) permite conectar objetos nuevos y no rela
 |4|ISP|Cuatro interfaces pequeñas|`NotImplementedError` en métodos|
 |5|DIP|`Race` recibe los corredores|`Clase()` construida dentro de otra|
 
-**Comandos útiles:**
-
-```bash
-python -m exercises.exN\_xxx            # ver la carrera animada
-pytest tests/test\_exN\_xxx.py -v        # probar un ejercicio
-pytest -v                              # probar todo
-
-
-
 ## 10\. Analisis con IA
 
 
